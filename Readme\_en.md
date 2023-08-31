@@ -1,7 +1,7 @@
 # stock-situation
 
 #### Description
-股票情况
+stock-situation
 
 #### Contribution
 1.  Fork the repository
